@@ -1,1 +1,3 @@
 The data has total of 152 missing value in Category and 147 missing value in Payment_Mode.
+around 28 users has paid with unknown methods. 
+upi is used by most of the user for payment
