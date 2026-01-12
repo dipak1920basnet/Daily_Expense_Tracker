@@ -1,3 +1,9 @@
+Data report: 
 The data has total of 152 missing value in Category and 147 missing value in Payment_Mode.
 around 28 users has paid with unknown methods. 
 upi is used by most of the user for payment
+
+Analysis report: 
+I am spending most money on entertainment, grocerries and fuel. 
+Most spending month is between 2024/07 to 2024/09.
+I am spending most money on wednesday and then on saturday. 
